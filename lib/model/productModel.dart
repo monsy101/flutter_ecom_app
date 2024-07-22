@@ -1,7 +1,7 @@
 class ProductModel {
   int? id;
   String? title;
-  int? price;
+  dynamic? price;
   String? image;
   String? description;
   String? category;
